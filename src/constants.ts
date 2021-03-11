@@ -1,18 +1,5 @@
 import { State } from './types';
 
-export const fields = [
-    'Full name',
-    'Phone',
-    'Email',
-    'Age',
-    'Experience',
-    'Yearly Income',
-    'Has children',
-    'License states',
-    'Expiration date',
-    'License number',
-];
-
 export const fieldsObject = {
     fullName: 'Full name',
     email: 'Email',
